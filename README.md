@@ -1,4 +1,4 @@
-# LP9DPBO2023
+# LP9DPB02023C2
 Saya Raisyad Jullfikar NIM 2106238 mengerjakan LP9 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Deskripsi Tugas
