@@ -20,4 +20,4 @@ Spesifikasi:
 - Link
 
 ## Dokumentasi Coba DB
-- Pict
+<img width="960" alt="SS_PY_GUI" src="https://github.com/raisyad/LP9DPB02023C2/assets/92106283/86442856-a123-4465-8cb8-98902b8c30c9">
