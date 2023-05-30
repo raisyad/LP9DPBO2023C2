@@ -17,7 +17,7 @@ Spesifikasi:
 5. Tekan tombol exit pada halaman list residen untuk keluar dari program
 
 ## Dokumentasi
-- Link
+https://github.com/raisyad/LP9DPB02023C2/assets/92106283/67bed5d0-6d7a-40c5-b673-f7bc10ffc6d3
 
 ## Dokumentasi Coba DB
 <img width="960" alt="SS_PY_GUI" src="https://github.com/raisyad/LP9DPB02023C2/assets/92106283/86442856-a123-4465-8cb8-98902b8c30c9">
