@@ -9,6 +9,14 @@ Spesifikasi:
 3. Tampilin gambar
 4. Tambahin 1 metode yang masih relevan untuk setiap kelas
 
+## Design Program
+Terdapat 4 class didalam program ini, yaitu :
+
+1. Class `Hunian` memiliki 3 atribut yaitu jenis, jml_penghuni, jml_kamar
+2. Class `Apartemen` yang merupakan child dari Class `Hunian`(parent) memiliki 5 atribut : nama_pemilik, alamat, tahun_tinggal, jml_penghuni, jml_kamar
+3. Class `Rumah` yang merupakan child dari Class `Hunian`(parent) memiliki 5 atribut : nama_pemilik, tahun_kepemilikan, alamat, jml_penghuni, jml_kamar
+4. Class `Indekos` yang merupakan child dari Class `Hunian`(parent) memiliki 5 atribut : nama_pemilik, nama_penghuni, tahun_awal_kost, bayar_kost, alamat
+
 ## Penjelasan alur
 1. Ketika program pertama kali dijalankan akan menampilkan landing page
 2. Pada landing page terdapat tombol yang jika ditekan akan berpindah ke halaman berisi list residen
